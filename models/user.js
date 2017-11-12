@@ -1,5 +1,4 @@
 'use strict';
-const bcrypt = require('bcryptjs');
 
 module.exports = function(sequelize, DataTypes) {
   const User = sequelize.define(
@@ -30,26 +29,6 @@ module.exports = function(sequelize, DataTypes) {
     },
     {
       timestamps: false
-    },
-    {
-      classMethods: {
-        associate: function(models) {
-          User.hasMany(models.Match, { foreignKey: 'userId' });
-          User.hasMany(models.UserPref, {
-            foreignKey: 'userId',
-            sourceKey: 'userId'
-          });
-        }
-      }
-    },
-    {
-      //optional functions added here
-      hooks: {
-        //hash the password after it has been validated for entry
-        afterValidate: function(user) {
-          user.password = bcrypt.hashSync(user.password, 8);
-        }
-      }
     }
   );
 

@@ -16,14 +16,6 @@ module.exports = function(sequelize, DataTypes) {
     },
     {
       timestamps: false
-    },
-    {
-      associate: function(models) {
-        UserPref.hasOne(models.User, {
-          foreignKey: 'userId',
-          targetKey: 'userId'
-        });
-      }
     }
   );
 
