@@ -15,7 +15,8 @@ module.exports = (sequelize, DataTypes) => {
       score: DataTypes.INTEGER
     },
     {
-      timestamps: false
+      timestamps: false,
+      freezeTableName: true
     },
     {
       associate: models => {
