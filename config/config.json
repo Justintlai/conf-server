@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "password",
-    "database": "conf",
-    "host": "localhost",
+    "username": "b9ff7dd91ef6d2",
+    "password": "193452bc",
+    "database": "heroku_b8cfaff3e289d00",
+    "host": "eu-cdbr-west-01.cleardb.com",
     "dialect": "mysql"
   },
   "test": {
