@@ -33,16 +33,6 @@ module.exports = function(sequelize, DataTypes) {
     },
     {
       classMethods: {
-        validPassword: function(password, passwd, done, user) {
-          bcrypt.compare(password, passwd, function(err, isMatch) {
-            if (err) console.log(err);
-            if (isMatch) {
-              return done(null, user);
-            } else {
-              return done(null, false);
-            }
-          });
-        },
         associate: function(models) {
           User.hasMany(models.Match, { foreignKey: 'userId' });
           User.hasMany(models.UserPref, {
