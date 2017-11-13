@@ -1,5 +1,6 @@
+"use strict";
 module.exports = (sequelize, DataTypes) => {
-  return sequelize.define(
+  const Industry = sequelize.define(
     "Industry",
     {
       code: {
@@ -16,4 +17,5 @@ module.exports = (sequelize, DataTypes) => {
       freezeTableName: true
     }
   );
+  return Industry;
 };
