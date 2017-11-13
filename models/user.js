@@ -23,9 +23,9 @@ module.exports = (sequelize, DataTypes) => {
       department: DataTypes.STRING(150),
       industry: DataTypes.INTEGER,
       bio: DataTypes.TEXT,
-      education: DataTypes.JSON,
-      prevOrg: DataTypes.JSON,
-      availability: DataTypes.JSON
+      education: DataTypes.TEXT,
+      prevOrg: DataTypes.TEXT,
+      availability: DataTypes.TEXT
     },
     {
       timestamps: false
