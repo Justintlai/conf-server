@@ -1,8 +1,8 @@
-'use strict';
+"use strict";
 
-module.exports = function(sequelize, DataTypes) {
+module.exports = (sequelize, DataTypes) => {
   const UserPref = sequelize.define(
-    'UserPref',
+    "UserPref",
     {
       userPrefId: {
         type: DataTypes.INTEGER,

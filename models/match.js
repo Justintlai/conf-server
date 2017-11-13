@@ -1,9 +1,8 @@
-'use strict';
-const bcrypt = require('bcryptjs');
+"use strict";
 
 module.exports = (sequelize, DataTypes) => {
   const Match = sequelize.define(
-    'Match',
+    "Match",
     {
       matchId: {
         type: DataTypes.INTEGER,
@@ -20,7 +19,7 @@ module.exports = (sequelize, DataTypes) => {
     },
     {
       associate: models => {
-        Match.belongsToMany(models.User, { foreignKey: 'userId' });
+        Match.belongsToMany(models.User, { foreignKey: "userId" });
       }
     }
   );
