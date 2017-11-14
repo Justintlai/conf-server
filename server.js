@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 /**
  * Get port from environment and store in Express.
  */
-var port = normalizePort(process.env.PORT || "5000");
+var port = normalizePort(process.env.PORT || "5001");
 app.set("port", port);
 /**
  * Create HTTP server.
@@ -38,6 +38,8 @@ models.sequelize
   })
   .then(() => {
     loadFile("./industry.json", models);
+    loadFile("./userPrefs.json", models);
+    loadFile("./users.json", models);
     // .then(() => console.log("success"))
     // .catch(err) => console.log(`loading ${err}`));
   });
