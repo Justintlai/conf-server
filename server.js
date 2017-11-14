@@ -17,8 +17,10 @@ app.use(bodyParser.json());
 /**
  * Get port from environment and store in Express.
  */
-var port = normalizePort(process.env.PORT || "5001");
+// var port = normalizePort(process.env.PORT || "5001");
+var port = normalizePort("5006");
 app.set("port", port);
+console.log("Process.Env PORT:", process.env.PORT);
 /**
  * Create HTTP server.
  */
@@ -37,9 +39,10 @@ models.sequelize
     server.on("listening", () => onListening(server));
   })
   .then(() => {
+    console.log("load files");
     loadFile("./industry.json", models);
     loadFile("./userPrefs.json", models);
-    loadFile("./users.json", models);
+    loadFile("./user.json", models);
     // .then(() => console.log("success"))
     // .catch(err) => console.log(`loading ${err}`));
   });
