@@ -1,7 +1,7 @@
 "use strict";
 module.exports = (sequelize, DataTypes) => {
   const Industry = sequelize.define(
-    "Industry",
+    "industries",
     {
       code: {
         type: DataTypes.INTEGER,

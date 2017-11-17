@@ -5,5 +5,19 @@
     "database": "heroku_b8cfaff3e289d00",
     "host": "eu-cdbr-west-01.cleardb.com",
     "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "password",
+    "database": "conf-test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "password",
+    "database": "conf-prod",
+    "host": "localhost",
+    "dialect": "mysql"
   }
 }

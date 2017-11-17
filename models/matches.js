@@ -1,7 +1,7 @@
 "use strict";
 module.exports = (sequelize, DataTypes) => {
   const Match = sequelize.define(
-    "Match",
+    "matches",
     {
       matchId: {
         type: DataTypes.INTEGER,

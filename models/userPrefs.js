@@ -2,7 +2,7 @@
 
 module.exports = (sequelize, DataTypes) => {
   const UserPref = sequelize.define(
-    "UserPref",
+    "userPrefs",
     {
       userPrefId: {
         type: DataTypes.INTEGER,

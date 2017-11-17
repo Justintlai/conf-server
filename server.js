@@ -1,30 +1,41 @@
 const express = require("express");
-const bodyParser = require("body-parser");
-const morgan = require("morgan");
-const http = require("http");
 const cors = require("cors");
+const bodyParser = require("body-parser");
+const path = require("path");
+const morgan = require("morgan");
+const ejs = require("ejs");
+const http = require("http");
 const { loadFile } = require("sequelize-fixtures");
 
 const { normalizePort, onError, onListening } = require("./utils");
 const models = require("./models");
+// routes
+const routes = require("./routes/index");
+const users = require("./routes/users");
 
 const app = express();
 // view engine setup
+app.set("view engine", "ejs");
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+app.use(express.static(path.join(__dirname, "public")));
+
+//Specify which routes to use
+app.use("/", routes);
+app.use("/api/v1/users", users);
 
 /**
  * Get port from environment and store in Express.
  */
-// var port = normalizePort(process.env.PORT || "5001");
-var port = normalizePort("5006");
+const port = normalizePort(process.env.PORT || "4000");
+// var port = normalizePort("5009");
 app.set("port", port);
 console.log("Process.Env PORT:", process.env.PORT);
 /**
  * Create HTTP server.
  */
-var server = http.createServer(app);
+const server = http.createServer(app);
 /**
  * Listen on provided port, on all network interfaces.
  */
@@ -40,11 +51,14 @@ models.sequelize
   })
   .then(() => {
     console.log("load files");
-    loadFile("./industry.json", models);
-    loadFile("./userPrefs.json", models);
-    loadFile("./user.json", models);
-    // .then(() => console.log("success"))
+    loadFile("./seed/industry.json", models);
+    loadFile("./seed/userPrefs.json", models);
+    loadFile("./seed/user.json", models);
+    // .then(() => console.log(`SUCCESS: files loaded.
+    //                         listening on port: ${PORT}`))
     // .catch(err) => console.log(`loading ${err}`));
+    // console.log("file load complete");
+    // console.log(`listening on port: ${PORT}`);
   });
 
 //catch 404 and forward error handler

@@ -1,1028 +1,1028 @@
 [
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 47,
       "description": "Accounting"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 94,
       "description": "Airlines Aviation"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 120,
       "description": "Alternative Dispute Resolution"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 125,
       "description": "Alternative Medicine"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 127,
       "description": "Animation"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 19,
       "description": "Apparel & Fashion"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 50,
       "description": "Architecture & Planning"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 111,
       "description": "Arts and Crafts"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 53,
       "description": "Automotive"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 52,
       "description": "Aviation & Aerospace"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 41,
       "description": "Banking"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 12,
       "description": "Biotechnology"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 36,
       "description": "Broadcast Media"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 49,
       "description": "Building Materials"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 138,
       "description": "Business Supplies and Equipment"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 129,
       "description": "Capital Markets"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 54,
       "description": "Chemicals"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 90,
       "description": "Civic & Social Organization"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 51,
       "description": "Civil Engineering"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 128,
       "description": "Commercial Real Estate"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 118,
       "description": "Computer & Network Security"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 109,
       "description": "Computer Games"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 3,
       "description": "Computer Hardware"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 5,
       "description": "Computer Networking"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 4,
       "description": "Computer Software"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 48,
       "description": "Construction"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 24,
       "description": "Consumer Electronics"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 25,
       "description": "Consumer Goods"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 91,
       "description": "Consumer Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 18,
       "description": "Cosmetics"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 65,
       "description": "Dairy"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 1,
       "description": "Defense & Space"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 99,
       "description": "Design"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 69,
       "description": "Education Management"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 132,
       "description": "E-Learning"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 112,
       "description": "Electrical/Electronic Manufacturing"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 28,
       "description": "Entertainment"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 86,
       "description": "Environmental Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 110,
       "description": "Events Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 76,
       "description": "Executive Office"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 122,
       "description": "Facilities Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 63,
       "description": "Farming"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 43,
       "description": "Financial Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 38,
       "description": "Fine Art"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 66,
       "description": "Fishery"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 34,
       "description": "Food & Beverages"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 23,
       "description": "Food Production"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 101,
       "description": "Fund-Raising"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 26,
       "description": "Furniture"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 29,
       "description": "Gambling & Casinos"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 145,
       "description": "Glass, Ceramics & Concrete"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 75,
       "description": "Government Administration"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 148,
       "description": "Government Relations"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 140,
       "description": "Graphic Design"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 124,
       "description": "Health, Wellness and Fitness"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 68,
       "description": "Higher Education"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 14,
       "description": "Hospital & Health Care"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 31,
       "description": "Hospitality"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 137,
       "description": "Human Resources"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 134,
       "description": "Import and Export"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 88,
       "description": "Individual & Family Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 147,
       "description": "Industrial Automation"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 84,
       "description": "Information Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 96,
       "description": "Information Technology and Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 42,
       "description": "Insurance"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 74,
       "description": "International Affairs"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 141,
       "description": "International Trade and Development"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 6,
       "description": "Internet"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 45,
       "description": "Investment Banking"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 46,
       "description": "Investment Management"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 73,
       "description": "Judiciary"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 77,
       "description": "Law Enforcement"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 9,
       "description": "Law Practice"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 10,
       "description": "Legal Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 72,
       "description": "Legislative Office"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 30,
       "description": "Leisure, Travel & Tourism"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 85,
       "description": "Libraries"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 116,
       "description": "Logistics and Supply Chain"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 143,
       "description": "Luxury Goods & Jewelry"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 55,
       "description": "Machinery"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 11,
       "description": "Management Consulting"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 95,
       "description": "Maritime"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 97,
       "description": "Market Research"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 80,
       "description": "Marketing and Advertising"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 135,
       "description": "Mechanical or Industrial Engineering"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 126,
       "description": "Media Production"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 17,
       "description": "Medical Devices"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 13,
       "description": "Medical Practice"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 139,
       "description": "Mental Health Care"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 71,
       "description": "Military"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 56,
       "description": "Mining & Metals"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 35,
       "description": "Motion Pictures and Film"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 37,
       "description": "Museums and Institutions"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 115,
       "description": "Music"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 114,
       "description": "Nanotechnology"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 81,
       "description": "Newspapers"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 100,
       "description": "Non-Profit Organization Management"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 57,
       "description": "Oil & Energy"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 113,
       "description": "Online Media"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 123,
       "description": "Outsourcing/Offshoring"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 87,
       "description": "Package/Freight Delivery"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 146,
       "description": "Packaging and Containers"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 61,
       "description": "Paper & Forest Products"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 39,
       "description": "Performing Arts"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 15,
       "description": "Pharmaceuticals"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 131,
       "description": "Philanthropy"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 136,
       "description": "Photography"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 117,
       "description": "Plastics"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 107,
       "description": "Political Organization"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 67,
       "description": "Primary/Secondary Education"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 83,
       "description": "Printing"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 105,
       "description": "Professional Training & Coaching"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 102,
       "description": "Program Development"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 79,
       "description": "Public Policy"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 98,
       "description": "Public Relations and Communications"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 78,
       "description": "Public Safety"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 82,
       "description": "Publishing"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 62,
       "description": "Railroad Manufacture"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 64,
       "description": "Ranching"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 44,
       "description": "Real Estate"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 40,
       "description": "Recreational Facilities and Services"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 89,
       "description": "Religious Institutions"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 144,
       "description": "Renewables & Environment"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 70,
       "description": "Research"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 32,
       "description": "Restaurants"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 27,
       "description": "Retail"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 121,
       "description": "Security and Investigations"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 7,
       "description": "Semiconductors"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 58,
       "description": "Shipbuilding"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 20,
       "description": "Sporting Goods"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 33,
       "description": "Sports"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 104,
       "description": "Staffing and Recruiting"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 22,
       "description": "Supermarkets"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 8,
       "description": "Telecommunications"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 60,
       "description": "Textiles"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 130,
       "description": "Think Tanks"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 21,
       "description": "Tobacco"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 108,
       "description": "Translation and Localization"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 92,
       "description": "Transportation/Trucking/Railroad"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 59,
       "description": "Utilities"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 106,
       "description": "Venture Capital & Private Equity"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 16,
       "description": "Veterinary"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 93,
       "description": "Warehousing"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 133,
       "description": "Wholesale"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 142,
       "description": "Wine and Spirits"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 119,
       "description": "Wireless"
     }
   },
   {
-    "model": "Industry",
+    "model": "industries",
     "data": {
       "code": 103,
       "description": "Writing and Editing"

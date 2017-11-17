@@ -1,8 +1,8 @@
 "use strict";
 
 module.exports = (sequelize, DataTypes) => {
-  const User = sequelize.define(
-    "User",
+  const users = sequelize.define(
+    "users",
     {
       userId: {
         type: DataTypes.INTEGER,
@@ -31,5 +31,5 @@ module.exports = (sequelize, DataTypes) => {
       timestamps: false
     }
   );
-  return User;
+  return users;
 };
